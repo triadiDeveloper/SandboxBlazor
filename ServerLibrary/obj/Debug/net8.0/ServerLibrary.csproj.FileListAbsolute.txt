@@ -1,0 +1,14 @@
+C:\RISET\SandboxBlazor\ServerLibrary\bin\Debug\net8.0\ServerLibrary.deps.json
+C:\RISET\SandboxBlazor\ServerLibrary\bin\Debug\net8.0\ServerLibrary.dll
+C:\RISET\SandboxBlazor\ServerLibrary\bin\Debug\net8.0\ServerLibrary.pdb
+C:\RISET\SandboxBlazor\ServerLibrary\obj\Debug\net8.0\ServerLibrary.GeneratedMSBuildEditorConfig.editorconfig
+C:\RISET\SandboxBlazor\ServerLibrary\obj\Debug\net8.0\ServerLibrary.AssemblyInfoInputs.cache
+C:\RISET\SandboxBlazor\ServerLibrary\obj\Debug\net8.0\ServerLibrary.AssemblyInfo.cs
+C:\RISET\SandboxBlazor\ServerLibrary\obj\Debug\net8.0\ServerLibrary.csproj.CoreCompileInputs.cache
+C:\RISET\SandboxBlazor\ServerLibrary\obj\Debug\net8.0\ServerLibrary.dll
+C:\RISET\SandboxBlazor\ServerLibrary\obj\Debug\net8.0\refint\ServerLibrary.dll
+C:\RISET\SandboxBlazor\ServerLibrary\obj\Debug\net8.0\ServerLibrary.pdb
+C:\RISET\SandboxBlazor\ServerLibrary\obj\Debug\net8.0\ref\ServerLibrary.dll
+C:\RISET\SandboxBlazor\ServerLibrary\bin\Debug\net8.0\ServerLibrary.runtimeconfig.json
+C:\RISET\SandboxBlazor\ServerLibrary\obj\Debug\net8.0\ServerLibrary.csproj.AssemblyReference.cache
+C:\RISET\SandboxBlazor\ServerLibrary\obj\Debug\net8.0\ServerLibrary.genruntimeconfig.cache

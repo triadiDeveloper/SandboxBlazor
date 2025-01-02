@@ -1,0 +1,12 @@
+C:\RISET\SandboxBlazor\ClientLibrary\bin\Debug\net8.0\ClientLibrary.deps.json
+C:\RISET\SandboxBlazor\ClientLibrary\bin\Debug\net8.0\ClientLibrary.dll
+C:\RISET\SandboxBlazor\ClientLibrary\bin\Debug\net8.0\ClientLibrary.pdb
+C:\RISET\SandboxBlazor\ClientLibrary\obj\Debug\net8.0\ClientLibrary.GeneratedMSBuildEditorConfig.editorconfig
+C:\RISET\SandboxBlazor\ClientLibrary\obj\Debug\net8.0\ClientLibrary.AssemblyInfoInputs.cache
+C:\RISET\SandboxBlazor\ClientLibrary\obj\Debug\net8.0\ClientLibrary.AssemblyInfo.cs
+C:\RISET\SandboxBlazor\ClientLibrary\obj\Debug\net8.0\ClientLibrary.csproj.CoreCompileInputs.cache
+C:\RISET\SandboxBlazor\ClientLibrary\obj\Debug\net8.0\ClientLibrary.dll
+C:\RISET\SandboxBlazor\ClientLibrary\obj\Debug\net8.0\refint\ClientLibrary.dll
+C:\RISET\SandboxBlazor\ClientLibrary\obj\Debug\net8.0\ClientLibrary.pdb
+C:\RISET\SandboxBlazor\ClientLibrary\obj\Debug\net8.0\ref\ClientLibrary.dll
+C:\RISET\SandboxBlazor\ClientLibrary\obj\Debug\net8.0\ClientLibrary.csproj.AssemblyReference.cache
